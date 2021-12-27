@@ -1,4 +1,4 @@
-### Hi there, I'm Harshal Shende 👋
+### Hi there, I'm Ankit Kumar 👋
 
 ## I'm a 😍😍 Innovation Lover 😍😍!
 
@@ -42,15 +42,15 @@
 
 <br />
 
-[programming]:https://github.com/HarshalShende/
-[website]: https://github.com/HarshalShende/
-[twitter]: https://github.com/HarshalShende/
-[linkedin]: https://github.com/HarshalShende/
-[webdevplaylist]: https://github.com/HarshalShende/
-[jsplaylist]: https://github.com/HarshalShende/
-[cssplaylist]: https://github.com/HarshalShende/
-[reactplaylist]: https://github.com/HarshalShende/
-[firebaseplaylist]: https://github.com/HarshalShende/
+[programming]:https://github.com/AnkitKumar4
+[website]: https://github.com/AnkitKumar4
+[twitter]: https://github.com/AnkitKumar4
+[linkedin]: https://github.com/AnkitKumar4
+[webdevplaylist]: https://github.com/AnkitKumar4
+[jsplaylist]: https://github.com/AnkitKumar4
+[cssplaylist]: https://github.com/AnkitKumar4
+[reactplaylist]: https://github.com/AnkitKumar4
+[firebaseplaylist]: https://github.com/AnkitKumar4
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshalShende&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="Harshal Shende" width="550px" />
 
