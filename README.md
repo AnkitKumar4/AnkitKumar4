@@ -2,7 +2,7 @@
 
 ## I'm a 😍😍 Innovation Lover 😍😍!
 
-- 🔭 I’m a Freelance Developer!
+- 🔭 I’m a Developer!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: React.js , Vue.Js, Java ,Php , Spring ,Laravel , Node.js, Android & ios Development
 - ⚡ Fun fact: I love to Explore the world
