@@ -4,7 +4,7 @@
 
 - 🔭 I’m a Developer!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: React.js , Vue.Js, Java ,Php , Spring ,Laravel , Node.js, Android & ios Development
+- 🥅 2024 Goals: Cloud, React, Vue.Js, Java, Spring, Node.js, Android & ios Development
 - ⚡ Fun fact: I love to Explore the world
 
 ### Connect with me:
