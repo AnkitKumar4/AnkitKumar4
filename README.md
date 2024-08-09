@@ -26,7 +26,7 @@ A self-taught geek Developer and Builder in Java full-stack web development, ope
 # 📊 GitHub Stats:
 ![GitHub Stats (2024)](https://github-readme-stats.vercel.app/api?username=pranita28Dane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20(2024))<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranita28Dane&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita28Dane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumar4&layout=compact&theme=radical)](https://github.com/AnkitKumar4)<br/>
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranita28Dane&theme=radical&hide_border=false)
 
 ## ✍️ Random Dev Quote
