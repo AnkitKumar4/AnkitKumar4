@@ -15,7 +15,7 @@ I love learning, contributing to open-source, and building projects that make a 
 - :v: I'm open to opportunities.
 - 💬 Ask me about Good First Issues & Exciting projects to work on.<br>
 - :zap: Fun fact: You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
-
+<br>
 
 # 🌐Socials
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
