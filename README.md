@@ -6,8 +6,9 @@ I have created multiple projects using the Java-Spring Boot stack and contribute
 I love learning, contributing to open-source, and building projects that make a tangible impact.
 <br>
 <br>
+---
 <img src="https://user-images.githubusercontent.com/68998355/110694804-1ac26580-820f-11eb-8bcf-2b93f48bce92.gif" align="right" width="300">
-<br>
+
 # 💫About Me :
 - :seedling: I am currently learning cloud and DevOps.
 - :earth_africa:	I like to contribute to open source and explore github.
@@ -16,7 +17,7 @@ I love learning, contributing to open-source, and building projects that make a 
 - 💬 Ask me about Good First Issues & Exciting projects to work on.<br>
 - :zap: Fun fact: You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 
-
+---
 # 🌐Socials
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitkumar2/)
